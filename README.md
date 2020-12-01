@@ -11,19 +11,19 @@ Stay alive for as long as possible by avoiding obstacles that are randomly gener
 Earn coins to buy customizable colours that appear in the game shop. The game also has various sound effects represent in game events (e.g. end game, in game music) 
 
 Start menu <br><br> 
-<img src="menu.png"> 
+<img src="images/menu.png"> 
 <br><br> 
 
 In game picture <br><br> 
-<img src="in_game.png"> 
+<img src="images/in_game.png"> 
 <br><br> 
 
 
 End game <br><br> 
-<img src="end_game.png"> 
+<img src="images/end_game.png"> 
 <br><br> 
 
 
 Cosmetic shop <br><br> 
-<img src="shop.png"> 
+<img src="images/shop.png"> 
 <br><br> 
